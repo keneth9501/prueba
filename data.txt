@@ -1,4 +1,4 @@
-{
+
 "empresa": "claro",
 "tipo": "NOTA",
 "data": [
